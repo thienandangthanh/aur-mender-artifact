@@ -1,0 +1,5 @@
+mender-artifact
+*.tar.zst
+
+pkg
+src
